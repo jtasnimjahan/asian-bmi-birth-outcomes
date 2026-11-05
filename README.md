@@ -2,7 +2,7 @@
 
 Analytic code for:
 
-> Jahan JT, Afrose S. Hidden overweight and adverse birth outcomes among Asian mothers in the United States, 2016–2023: a population-based repeated cross-sectional study. Submitted to *Paediatric and Perinatal Epidemiology*, 2026.
+> Tasnim Jahan J, Afrose S. Hidden overweight and adverse birth outcomes among Asian mothers in the United States, 2016–2023: a population-based repeated cross-sectional study. Submitted to *Paediatric and Perinatal Epidemiology*, 2026.
 
 **Manuscript status:** Under review at *Paediatric and Perinatal Epidemiology* (submitted 2 November 2026). This repository accompanies the submitted manuscript. Findings and scripts may be updated following peer review.
 
