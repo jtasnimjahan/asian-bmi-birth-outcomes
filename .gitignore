@@ -1,0 +1,23 @@
+# Local data and generated output
+*.sas7bdat
+*.sas7bndx
+*.sas7bcat
+*.xpt
+*.zip
+*.txt
+*.csv
+*.rtf
+*.log
+*.lst
+*.tiff
+*.tif
+*.png
+*.pdf
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
